@@ -1,0 +1,2 @@
+# learn-html-online
+This is the repository for seconds2work.com Learn HTML Online ~ Building a Website from Scratch Tutorials. This tutorial will walk you through the steps and show you how to create a website by handing coding it. This is a complete course with no steps missing. I taught myself to become a web designer and developer. You now have the opportunity to learn HTML online for free from home or anywhere in the world. Please share this information and repository with everybody you know. Thank you and God bless.
