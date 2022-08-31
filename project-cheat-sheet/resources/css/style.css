@@ -1,0 +1,78 @@
+nav {
+    border-bottom: 1px solid darkcyan;
+}
+
+.tag-name {
+    color: black;
+    font-family: monospace;
+    background: lemonchiffon;
+    font-weight: bold;
+}
+
+.toc ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.toc {
+    display: inline-block;
+}
+
+.toc a::after {
+    display: inline-block;
+    color: #000;
+    content: '>';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 3px;
+}
+
+.html-meaning {
+    font-weight: bold;
+}
+
+#title {
+    color: darkcyan;
+    font-size: xx-large;
+}
+
+h2, h3 {
+    color: darkcyan;
+}
+
+.table-content {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 15px cadetblue;
+}
+
+.table-content thead tr {
+    background-color: darkcyan;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+}
+
+.table-content th, .table-content td {
+    padding: 12px 15px;
+}
+
+.table-content tbody tr {
+    border-bottom: 1px solid #ddd;
+}
+
+.table-content tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.table-content tbody tr:last-of-type {
+    border-bottom: 2px solid darkcyan;
+}
+
+ {
+    background-color: cadetblue;
+}
